@@ -1,0 +1,2 @@
+# MyUmAndBannerDemo
+封装了轮播动画的viewpager案例
